@@ -4,7 +4,7 @@ https://www.codecademy.com/courses/learn-java/lessons/object-oriented-programmin
 
 The point of this excersice was to show understanding of inheritence, classes, onjects, constructors, instance variables,
 and object oriented programming. This program inherits Animals which is an uncreated class assumed to be an inheritence with
-stuff in it. Inheriting the checkStatus fucntion. */
+stuff in it. Inheriting the checkStatus object. */
 class Dog extends Animal {
   
   int age;
